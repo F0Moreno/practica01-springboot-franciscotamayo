@@ -1,0 +1,8 @@
+com\ma\PrimerSpringBoot\controller\HelloWebController.class
+com\ma\PrimerSpringBoot\controller\SaludoControllerForm.class
+com\ma\PrimerSpringBoot\controller\HelloRestController.class
+com\ma\PrimerSpringBoot\controller\SaludoControllerPlantilla.class
+com\ma\PrimerSpringBoot\controller\UserData.class
+com\ma\PrimerSpringBoot\service\SaludoService.class
+com\ma\PrimerSpringBoot\controller\SaludoController.class
+com\ma\PrimerSpringBoot\PrimerSpringBootApplication.class
