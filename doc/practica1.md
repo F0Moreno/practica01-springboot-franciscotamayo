@@ -1,5 +1,3 @@
-url 
-repositorio github: https://github.com/F0Moreno/practica01-springboot-F0Moreno.git
 docker hub: https://hub.docker.com/r/franciscotamayo/spring-boot-demoapp
 # Informe
 #### Francisco Tamayo
